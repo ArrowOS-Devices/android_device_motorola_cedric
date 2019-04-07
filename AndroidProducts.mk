@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dirty_cedric.mk
+    $(LOCAL_DIR)/prisma_cedric.mk

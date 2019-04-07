@@ -1,1 +1,1 @@
-add_lunch_combo dirty_cedric-userdebug
+add_lunch_combo prisma_cedric-userdebug

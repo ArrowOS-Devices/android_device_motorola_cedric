@@ -1,0 +1,18 @@
+[
+  {
+    "repository":  "android_kernel_motorola_msm8937",
+    "target_path": "kernel/motorola/msm8937"
+   },
+   {
+    "repository": "packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions"
+    },
+    {
+    "repository":  "android_vendor_motorola_cedric",
+    "target_path": "vendor/motorola/cedric"
+    },
+    {
+    "repository":  "android_prebuilts_clang_host_linux-x86_clang-r353983b",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r353983b"
+  }
+]

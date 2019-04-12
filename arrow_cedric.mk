@@ -19,7 +19,7 @@
 $(call inherit-product, device/motorola/cedric/full_cedric.mk)
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/prisma/config/common_full_phone.mk)
+$(call inherit-product, vendor/arrow/config/common_full_phone.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
@@ -27,10 +27,9 @@ TARGET_SCREEN_HEIGHT := 1920
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := cedric
-PRODUCT_NAME := prisma_cedric
+PRODUCT_NAME := arrow_cedric
 PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := motorola
-CUSTOM_BUILD_TYPE := OFFICIAL
 PRODUCT_ENFORCE_RRO_TARGETS := \
     framework-res
 
